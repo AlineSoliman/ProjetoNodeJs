@@ -1,7 +1,7 @@
 App em Node.Js criado para:
-Criar/Atualizar usuário
-Selecionar usuário
-Remover usuário
+Criar/Atualizar usuário;
+Selecionar usuário;
+Remover usuário;
 
 Os dados inseridos na Query String são armazenados na pasta Users com arquivos denominadosatravés da informação de ID. Cada usuária será salvo com sua informação de ID no arquivo .txt.
 
